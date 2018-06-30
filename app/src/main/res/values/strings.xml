@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">My Quiz</string>
+    <string name="uname">Enter Your Username</string>
+    <string name="welcome_msg">Welcome to Quiz 1.0</string>
+    <string name="start_quiz">START QUIZ</string>
+    <string name="status">You are logged in as %s</string>
+    <string name="q1">1. What is Android?</string>
+    <string name="q2">2. How to move services to foreground in android?</string>
+    <string name="A1">Android is a stack of software\'s for mobility</string>
+    <string name="B1">Google mobile device name</string>
+    <string name="C1">Virtual machine</string>
+    <string name="D1">None of the above</string>
+    <string name="A2">Services always work in Foreground only</string>
+    <string name="B2">No,We can\'t do this query</string>
+    <string name="C2">Using startService(Intent intent)</string>
+    <string name="D2">startFordgroud(int id, Notification notification)</string>
+    <string name="Q3">3. How many threads are there in asyncTask in android?</string>
+    <string name="A3">Only one</string>
+    <string name="B3">Two</string>
+    <string name="C3">AsyncTask doesn\'t have tread</string>
+    <string name="D3">None of the Above</string>
+    <string name="Q4">4. What is the difference between content values and cursor in android SQlite?</string>
+    <string name="A4">Content values are key pair values, which are updated or inserted in the database</string>
+    <string name="B4">Cursor is used to store the temporary result.</string>
+    <string name="C4"><![CDATA[A & B]]></string>
+    <string name="D4">Cursor is used to store data permanently.</string>
+    <string name="Q5">5. Persist data can be stored in Android through</string>
+    <string name="A5">Shared Preferences</string>
+    <string name="B5">Internal/External storage</string>
+    <string name="C5">SQlite</string>
+    <string name="D5">All of above</string>
+    <string name="submit_ans">SUBMIT QUIZ</string>
+    <string name="mail">MAIL REPORT</string>
+</resources>
