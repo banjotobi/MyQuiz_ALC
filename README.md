@@ -8,7 +8,9 @@ This Educational Application quizzes a user with 5 Android Dev topics.
 
 A toast is used to display the answer while there's a 5 Star rating to indicate the level of the user's score.
 
-It can be downloaded via https://drive.google.com/open?id=1TCXwXPROdLpI7hMEoUufZhqmIUDjq-4z
+It can be downloaded via https://drive.google.com/open?id=1g-VBfbi1LnKKzXVaxs0Fkxk7KpD_BmTC
+
+Screenshots of the App in action https://drive.google.com/open?id=1TCXwXPROdLpI7hMEoUufZhqmIUDjq-4z
 
 
 
